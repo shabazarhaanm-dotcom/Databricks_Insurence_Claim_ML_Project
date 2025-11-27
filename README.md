@@ -12,8 +12,8 @@ This project implements a scalable ETL pipeline following the **medallion archit
 
    ## Tech Stack
    
-   **Data Processing**: Apache Spark, Databricks Lakehouse, AWS S3, Kinisis
-   **Machine Learning**: Scikit-learn, MLflow
+   **Data Processing**: Apache Spark, SQL Server, Lakebase, AWS S3, Kinisis
+   **Machine Learning**: Scikit-learn, MLflow, Mosaic AI
    **Orchestration**: Databricks
    **Cloud Provider**: AWS
    
